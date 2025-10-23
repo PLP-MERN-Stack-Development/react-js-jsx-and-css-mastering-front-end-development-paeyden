@@ -1,6 +1,8 @@
 # Task Manager
 
 A responsive React application for managing tasks, integrating API data, and supporting light/dark themes using Tailwind CSS. This project demonstrates **component architecture**, **state management**, **React hooks**, **context API**, and **API integration**.
+# Deployed website
+  - https://taskmanager-reactt.netlify.app/
 
 ---
 
@@ -31,19 +33,19 @@ A responsive React application for managing tasks, integrating API data, and sup
 
 ## 📂 Project Structure
 
-src/
-├─ components/
-│ ├─ Button.jsx
-│ ├─ Navbar.jsx
-│ ├─ Footer.jsx
-│ ├─ TaskManager.jsx
-│ └─ ApiData.jsx
-├─ context/
-│ └─ ThemeContext.jsx
-├─ Layout/
-│ └─ Layout.jsx
-├─ App.jsx
-└─ main.jsx
+  src/
+ - ├─ components/
+  │ ├─ Button.jsx
+  │ ├─ Navbar.jsx
+  │ ├─ Footer.jsx
+  │ ├─ TaskManager.jsx
+  │ └─ ApiData.jsx
+  ├─ context/
+  │ └─ ThemeContext.jsx
+  ├─ Layout/
+  │ └─ Layout.jsx
+  ├─ App.jsx
+  └─ main.jsx
 
 Task data is saved in localStorage and persists across sessions.
 
