@@ -23,7 +23,7 @@ const Navbar = () => {
             Home
           </a>
           <a
-            href="#tasks"
+            href="/"
             className="text-gray-700 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition"
           >
             Tasks
